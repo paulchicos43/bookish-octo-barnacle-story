@@ -3,3 +3,10 @@ water or food. But, at least he had wifi. He was able to make kickstarter
 online and raise money for food. But, he had nowhere to spend the money!
 Where was he to spend all this money and could he call for help using the
 wifi! And, his name was bob.
+Bob searched for help on the Internet. He found a website called "Search & 
+Rescue: World". He browsed the website and found out that this website allowed
+him to request a rescue by filling out an online form. Natually, Bob tried to 
+fill out the form so that he could be saved. As he clicked on the link to the
+form, a window popped up asking to create an account. Since he had an email, 
+he was able to create the account. However, when he tried to log in, the worst
+thing possible happened-Duo Factor Authentification.
