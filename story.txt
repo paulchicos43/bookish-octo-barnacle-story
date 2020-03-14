@@ -21,3 +21,9 @@ Bob went back to town. He was so eagerly to past his Duo authentification that h
 his money on the way! He traversed every house in the town in a level-order, buying
 every iphone he sees! Now he has no money, but he still could not pass the DUO MULTIFACTOR
 AUTHENTIFICATION anyway!
+
+Oh no! What a tragedy! He couldn't access what he needed to access. He slumped against the
+side of the building as he carefully thought about his situation. Finally, he realized the key.
+He could call the DoIT help desk. So, he used one of the phones he had to dial DoIt's number.
+They gave him a keyfob that generated a passcode finally allowing him to access the online content
+that he needed to be saved.
